@@ -132,6 +132,8 @@ env.bak/
 venv.bak/
 .byaldi/
 faiss_indexes/
+wakefit_final_data/
+custom_data/
 venv_colpali/
 
 # Spyder project settings

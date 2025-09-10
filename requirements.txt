@@ -1,4 +1,25 @@
+# Requirements for Optimized Wakefit Data Generator
+# Python Version: 3.12.7
+# Includes async processing, batch operations, and performance monitoring
+
+# Core Data Processing
 pandas==2.1.4
 numpy==1.26.2
+
+# Data Generation
 Faker==20.1.0
+
+# Date and Time Utilities
 python-dateutil==2.8.2
+
+# Async File Operations
+aiofiles==23.2.1
+
+# Progress Bars and Monitoring
+tqdm==4.66.1
+
+# System Resource Monitoring
+psutil==5.9.6
+
+# Development and Testing
+pytest==7.4.3
